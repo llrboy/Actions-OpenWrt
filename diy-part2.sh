@@ -22,4 +22,4 @@ sed -i 's/luci-theme-bootstrap/luci-theme-argon/' feeds/luci/collections/luci/Ma
 
 rm -rf feeds/small8/luci-app-adguardhome
 
-git clone https://github.com/nhyoungboy/luci-app-adguardhome.git package/net/luci-app-adguardhome
+git clone https://github.com/llrboy/luci-app-adguardhome.git package/net/luci-app-adguardhome
